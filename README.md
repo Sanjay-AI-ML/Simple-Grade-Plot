@@ -1,5 +1,7 @@
 # 📊 Simple Grade Plotter (R)
 
+![R](https://img.shields.io/badge/r-4.0-blue?logo=r&logoColor=white) ![ggplot2](https://img.shields.io/badge/visualization-ggplot2-blue) ![Statistics](https://img.shields.io/badge/stats-analysis-blue) ![CSV](https://img.shields.io/badge/data-csv-blue)
+
 A practical R script that calculates student grades based on marks and visualizes the distribution using ggplot2. Perfect for learning R data manipulation, conditional logic, and data visualization.
 
 ---
