@@ -1,0 +1,29 @@
+# Sample grades data for Simple-Grade-Plot R script
+# Format: Student Name, Marks (0-100)
+
+Name,Marks
+Alice,87
+Bob,54
+Charlie,72
+David,43
+Eva,65
+Frank,91
+Grace,58
+Henry,76
+Ivy,82
+Jack,48
+Karen,95
+Leo,61
+Mona,78
+Nathan,39
+Olivia,89
+Peter,66
+Quinn,72
+Rachel,84
+Sam,55
+Tina,92
+Uma,71
+Victor,46
+Wendy,88
+Xavier,59
+Yara,80
